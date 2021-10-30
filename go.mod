@@ -1,4 +1,4 @@
-module ebitin-init-failure
+module ebiten-init-failure
 
 go 1.17
 
